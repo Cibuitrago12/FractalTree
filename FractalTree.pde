@@ -9,7 +9,7 @@ public void setup()
 } 
 public void draw() 
 {   
-	stroke(139,69,19);   
+	stroke(0);   
 	drawBranches(500,900,300, (float)(3*Math.PI/2));  
 } 
 
